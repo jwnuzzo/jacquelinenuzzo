@@ -116,4 +116,72 @@ img {
 	#hero_image img {
 		display: none;
 	}
+
+	#hero_img p {
+		display: none;
+	}
+
+	#baby_image img {
+		width: 3vw;
+	}
+
+	h1 {
+	font-family: helvetica-oblique;
+	font-size: 15pt;
+	text-align:center;
+	margin-top: 5vh;
+
+	}
+
+	h1 a {
+		text-decoration: none;
+	}
+
+	h2 {
+		font-size: 8pt;
+		font-style: italic;
+		font-family: helvetica-oblique;
+		;
+	}
+
+	h3 {
+		font-size: 8pt;
+		font-style: italic;
+		font-family: helvetica-oblique;
+		;
+	}
+
+	h4 {
+		font-size: 8pt;
+		font-style: italic;
+		font-family: helvetica-oblique;
+		;
+	}
+
+
+	p {
+		font-size: 10pt;
+		margin-bottom: 30px;
+	}
+
+	.title {
+		margin-top: 10px;
+		font-size: 10pt;
+		font-style: italic;
+
+		margin-bottom: 0px;
+	}
+
+	.description {
+		margin-top: 10px;
+		font-size: 10pt;
+		margin-bottom: 30px;
+	}
+
+	img {
+		width: 50vw;
+	}
+
+
+
 }
