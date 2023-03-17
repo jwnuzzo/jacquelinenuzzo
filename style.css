@@ -213,4 +213,10 @@ img {
 		width: 4vw;
 	}
 
+	.navbar {
+		text-align: center;
+		margin-left: 120px;
+	}
+
+
 }
