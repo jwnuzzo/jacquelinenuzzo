@@ -13,8 +13,6 @@
 .navbar {
   overflow: hidden;
   background-color: #ffffff;
-  display: flex;
-  justify-content: center; /* center menu horizontally */
 }
 
 /* Navigation links */
@@ -228,7 +226,7 @@ img {
 		width: 4vw;
 	}
 
-	  .video-container {
+	.video-container {
     position: relative;
     width: 100%;
     height: 0;
@@ -242,5 +240,5 @@ img {
     width: 100%;
     height: 100%;
   }
-  
+
 }
