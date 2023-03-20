@@ -161,6 +161,9 @@ img {
 	width: 40%;
 }
 
+.video-container {
+  margin-left: 50px; /* change the value as per your requirement */
+}
 
 #hero_image img {
 	position: absolute;
