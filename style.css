@@ -194,12 +194,10 @@ img {
 	 /* styles for screens with a maximum width of 600px (e.g. mobile devices) */
   
   .navbar {
-    flex-wrap: wrap; /* allow menu items to wrap to new lines */
+ 		margin-left: 120px;
+ 		text-align: center;
   }
-  .navbar a, .subnav button {
-    display: block; /* make menu items and subnav buttons take up the full width of the screen */
-    text-align: center; /* center menu items and subnav buttons */
-  }
+  
 
 	p {
 		margin-right: 0vw;
