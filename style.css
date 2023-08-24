@@ -78,6 +78,11 @@
   display: block;
 }
 
+.thumbnail { 
+	width: 15vw;
+	margin-left: 50px;
+	z-index: -10;
+ }
 
 h1 {
 	font-family: helvetica-oblique;
@@ -149,7 +154,7 @@ a:visited {
 }
 
 img {
-	width: 50vw;
+	width: 40vw;
 	margin-left: 50px;
 	z-index: -10;
 }
