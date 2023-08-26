@@ -78,8 +78,27 @@
   display: block;
 }
 
-.thumbnail { 
-	width: 15vw;
+/* Image grid layout */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Size of the images when you click */
+.main { 
+	width: 80vw;
 	margin-left: 50px;
 	z-index: -10;
  }
@@ -154,7 +173,7 @@ a:visited {
 }
 
 img {
-	width: 40vw;
+	width: 30vw;
 	margin-left: 50px;
 	z-index: -10;
 }
