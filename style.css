@@ -12,6 +12,7 @@
 .navbar {
   overflow: hidden;
   background-color: #ffffff;
+  display: inline-block;
 }
 
 /* Navigation links */
