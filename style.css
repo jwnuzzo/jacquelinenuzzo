@@ -236,8 +236,8 @@ margin-left: 5vw;
 
 }
 
-@media screen and (max-width: 600px) {
-   /* styles for screens with a maximum width of 600px (e.g. mobile devices) */
+@media screen and (max-width: 428px) {
+   /* styles for screens with a maximum width of 428px (e.g. mobile devices) */
   
   .navbar {
     margin-left: 120px;
@@ -247,7 +247,8 @@ margin-left: 5vw;
   
 
   p {
-    margin-right: 0vw;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   body {
@@ -255,6 +256,11 @@ margin-left: 5vw;
   }
 
   h1 {
+    text-align: center;
+    margin-left: 5vw;
+  }
+
+  h2 {
     text-align: center;
     margin-left: 5vw;
   }
@@ -287,8 +293,4 @@ margin-left: 5vw;
   }
 
 }
-
-
-
-
 
