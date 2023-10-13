@@ -236,18 +236,18 @@ margin-left: 5vw;
 
 }
 
-@media screen and (max-width: 428px) {
-   /* styles for screens with a maximum width of 428px (e.g. mobile devices) */
+@media screen and (max-width: 600px) {
+   /* styles for screens with a maximum width of 600px (e.g. mobile devices) */
   
-/*  .navbar { 
-    margin-left: 120px; */
+.navbar { 
+    margin-left: 50px;
     /*text-align: center;*/
 
   }
   
 
   p {
-    margin-left: 5px;
+    margin-left: 50px;
     margin-right: 5px;
   }
 
@@ -261,9 +261,13 @@ margin-left: 5vw;
   }
 
   h2 {
-    text-align: center;
-    margin-left: 5vw;
+   /* text-align: center; */
+    margin-left: 50px;
   }
+
+  .container {
+    margin-left: 50px;;
+}
 
   #hero_image img {
     display: none;
