@@ -270,6 +270,10 @@ margin-left: 5vw;
     margin-left: 10px;;
 }
 
+.photo {
+  margin-left: 10px;
+}
+
   #hero_image img {
     display: none;
   }
